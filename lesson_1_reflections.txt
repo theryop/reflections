@@ -1,0 +1,8 @@
+Being able to see the  differences between two files allows us to highlight the changes we've made from the last stable (bug free) version, which naturally simplifies where we need to look for potential bugs.
+
+Having easy access to the entire history of a file allows you more control over being able to solve problems, since you have the ability to go back to a stable version of your program. At a certain point, bug-fixing solutions get so complex that its better to revert to a point where the bug didn't exist, and that process becomes easier with file history.
+
+The pros of choosing when to commit are that you can limit the amount of versions you save. The con is that you open yourself to human error, sometimes forgetting to save, and having to lose some precious editing.
+
+VCS allows for saving multiple files in one commit because features in programs often times span multiple files, so changes are better organized to reflect this. In google docs, this is ultimately uneccesary, since most files will not interact with each other.
+
