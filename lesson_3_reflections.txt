@@ -4,3 +4,5 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repo?
 	pulling changes manually allows you to have more freedom in the version that you are working on. This is beneficial in instances from which you want to work on older versions of an instance, especially when working in group settings.
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another.
+	Branches are different timelines of commites between the same project. This is useful for situations like working on different features of a program at the same time. Clones are copies of a github project, which is useful for collaboration between different users and computers. Forks are copies of github projects that you can edit, so that the original owner gets credit, but allows you to have a custom version of your own. This is useful if you want to modify someone else's project, but not necessarily add those modifications to their project. 
